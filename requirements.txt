@@ -1,0 +1,7 @@
+pip install dhooks
+pip install time
+pip install os
+pip install sys
+pip install platform
+pip install colorama
+pip install datetime
